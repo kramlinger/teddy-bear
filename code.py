@@ -2,6 +2,8 @@
 
 y = 34
 
+x = 0
+x += y + 1
 
 
 print('hello world!')
