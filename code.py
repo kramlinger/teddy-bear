@@ -1,3 +1,3 @@
 # first line of code! 
 
-x = 34
+y = 34
